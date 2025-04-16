@@ -6,7 +6,7 @@ This system is engineered to deeply analyze and facilitate interaction with docu
 
 ##   Core Capabilities
 
-* **Comprehensive Document Extraction**: The system is capable of extracting data from a wide array of file formats, including .docx (Word documents), .pdf files, and tabular data formats like .csv and .xlsx. This ensures versatility in handling diverse document types. [
+* **Comprehensive Document Extraction**: The system is capable of extracting data from a wide array of file formats, including .docx (Word documents), .pdf files, and tabular data formats like .csv and .xlsx. This ensures versatility in handling diverse document types.
    
 * **Intelligent Text Chunking and Embedding**: Extracted text is divided into manageable, semantically coherent chunks. These chunks are then converted into vector embeddings, numerical representations that capture the semantic meaning of the text, enabling similarity-based searches. 
    
@@ -46,9 +46,9 @@ The system's methodology is structured into several key stages:
 
 ##   Significant Discoveries
 
-* **Table Integrity in Chunking**: Preserving the integrity of tables during the text chunking process is crucial for maintaining the context and relationships within tabular data. [cite: 6]
+* **Table Integrity in Chunking**: Preserving the integrity of tables during the text chunking process is crucial for maintaining the context and relationships within tabular data.
    
-* **Semantic Chunking Effectiveness**: Chunking text based on sentence boundaries, rather than simply by token count, leads to improved semantic coherence and more natural-sounding text passages. [cite: 6]
+* **Semantic Chunking Effectiveness**: Chunking text based on sentence boundaries, rather than simply by token count, leads to improved semantic coherence and more natural-sounding text passages.
    
 * **Custom Evaluation Metrics**: The development and use of custom evaluation metrics, such as TPS and Factual Consistency Score, provide more nuanced and detailed assessments of the system's performance, particularly in translation and summarization tasks. 
 
