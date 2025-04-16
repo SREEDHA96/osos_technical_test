@@ -1,0 +1,17 @@
+python-docx
+pymupdf
+pandas
+pdfplumber
+openpyxl
+langchain
+tiktoken
+openai
+faiss-cpu
+nomic
+numpy
+transformers
+huggingface_hub
+optimum
+auto-gptq
+langdetect
+rouge-score
